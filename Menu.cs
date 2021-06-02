@@ -11,6 +11,7 @@ namespace CashDesk
         public static void m()
         {
             Console.WriteLine("Программа Касса в магазине");
+            Console.WriteLine("Начало работы");
             while (true)
             {
                 Autorization.Auto();
